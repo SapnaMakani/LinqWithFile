@@ -1,0 +1,15 @@
+D:\Hamber Collage\C#\LinqWithFile\bin\Debug\net10.0\LinqWithFile.exe
+D:\Hamber Collage\C#\LinqWithFile\bin\Debug\net10.0\LinqWithFile.deps.json
+D:\Hamber Collage\C#\LinqWithFile\bin\Debug\net10.0\LinqWithFile.runtimeconfig.json
+D:\Hamber Collage\C#\LinqWithFile\bin\Debug\net10.0\LinqWithFile.dll
+D:\Hamber Collage\C#\LinqWithFile\bin\Debug\net10.0\LinqWithFile.pdb
+D:\Hamber Collage\C#\LinqWithFile\obj\Debug\net10.0\LinqWithFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hamber Collage\C#\LinqWithFile\obj\Debug\net10.0\LinqWithFile.AssemblyInfoInputs.cache
+D:\Hamber Collage\C#\LinqWithFile\obj\Debug\net10.0\LinqWithFile.AssemblyInfo.cs
+D:\Hamber Collage\C#\LinqWithFile\obj\Debug\net10.0\LinqWithFile.csproj.CoreCompileInputs.cache
+D:\Hamber Collage\C#\LinqWithFile\obj\Debug\net10.0\LinqWithFile.dll
+D:\Hamber Collage\C#\LinqWithFile\obj\Debug\net10.0\refint\LinqWithFile.dll
+D:\Hamber Collage\C#\LinqWithFile\obj\Debug\net10.0\LinqWithFile.pdb
+D:\Hamber Collage\C#\LinqWithFile\obj\Debug\net10.0\LinqWithFile.genruntimeconfig.cache
+D:\Hamber Collage\C#\LinqWithFile\obj\Debug\net10.0\ref\LinqWithFile.dll
+D:\Hamber Collage\C#\LinqWithFile\obj\Debug\net10.0\LinqWith.FC43297F.Up2Date
